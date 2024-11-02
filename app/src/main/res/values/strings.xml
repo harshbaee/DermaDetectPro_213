@@ -1,0 +1,24 @@
+<resources>
+    <string-array name="skin_care_options">
+        <item>Normal Skin</item>
+        <item>Dry Skin</item>
+        <item>Oily Skin</item>
+        <item>Acne Prone Skin</item>
+        <item>Dark Spots and Hyperpigmentation</item>
+        <item>Tanning</item>
+    </string-array>
+    <string name="app_name">Derma</string>
+    <string name="select_an_image_to_detect_the_skin_disease">Select an image to detect the skin disease</string>
+    <string name="selected_image">Selected Image</string>
+    <string name="select_image">Select Image</string>
+    <string name="detect_disease">Detect Disease</string>
+    <string name="result_will_be_shown_here">Result will be shown here</string>
+    <string name="show_solution">Show Solution</string>
+    <string name="solution_will_appear_here">Solution will appear here</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="your_solution_will_appear_here">Your solution will appear here</string>
+
+</resources>
+

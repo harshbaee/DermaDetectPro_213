@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "329894511292",
+    "project_id": "derma-e6c7b",
+    "storage_bucket": "derma-e6c7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329894511292:android:311bd83bf6d7da14da86b9",
+        "android_client_info": {
+          "package_name": "com.example.derma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXWeaD5n8kRQ4gVQH9xzr9GyA2_ShGKYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
