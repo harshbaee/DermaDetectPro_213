@@ -1,22 +1,82 @@
-DermaDetectPro, designed to detect various skin conditions using deep learning and image processing techniques. The app leverages a pre-trained Convolutional Neural Network (CNN) model with TensorFlow Lite to deliver efficient and accurate skin disease predictions directly on mobile devices.
 
-Key Features:
+# DermaDetect Pro 🩺📱  
+A Deep Learning-Based Mobile Application for Skin Disease Detection  
 
-Image-Based Disease Detection: Users can upload or capture images of skin anomalies, which the app analyzes using a CNN-based model optimized for mobile inference with TensorFlow Lite. This model is trained to classify various skin conditions, providing diagnostic insights directly on the device.
-Skin Care Guidance: The application includes a skin care section that offers personalized skincare tips and recommendations based on the user’s condition.
-Nearby Hospital Locator: Integrated Google Maps API to provide users with location-based assistance, enabling them to find nearby hospitals and healthcare facilities for immediate consultation.
-User Authentication and Data Security: Using Firebase Authentication, the app secures user data and supports features like sign-up, login, and personalized records.
-Optimized for Low-Power and Low-Latency: Developed specifically for mobile platforms, focusing on efficiency in real-time image analysis without compromising battery life or device performance.
-Technical Stack:
+## 📌 Overview  
+**DermaDetect Pro** is an AI-powered mobile healthcare application that detects and classifies various skin diseases using real-time image analysis. Built using Convolutional Neural Networks (CNNs), TensorFlow Lite, and Android, this project aims to provide early dermatological diagnostics through an accessible and user-friendly interface.
 
-Languages: Java, XML (Android UI)
-Frameworks and Libraries: TensorFlow Lite for machine learning, Firebase for backend services, and Google Maps API for location services.
-Software Development Methodology: Agile Model, focusing on iterative development and frequent user feedback to enhance functionality and user experience.
-This application not only showcases expertise in mobile development and machine learning integration but also demonstrates a commitment to developing technology that has the potential for real-world medical impact.
+---
 
+## 🚀 Features
+- 🔍 **Skin Disease Classification**: Detects common conditions such as acne, eczema, psoriasis, and melanoma.  
+- 📷 **Real-time Image Capture**: Snap or upload an image from your phone.  
+- 🧠 **On-Device Inference**: Runs the CNN model using TensorFlow Lite for fast, offline predictions.  
+- 📊 **Medical History Tracking**: Stores and retrieves user scan history securely.  
+- 🩺 **Treatment Suggestions**: Offers basic precautions and dermatologist guidance.  
+- 🔐 **User Authentication**: Firebase-backed login and registration system.
 
+---
 
+## 🛠️ Tech Stack
 
+| Category         | Tools / Frameworks                        |
+|------------------|-------------------------------------------|
+| **ML & AI**       | TensorFlow, Keras, CNN, TensorFlow Lite   |
+| **Frontend**      | Android Studio, XML, Java/Kotlin          |
+| **Backend/Storage** | Firebase Console, SQLite                  |
+| **Image Handling** | OpenCV, PIL                               |
+| **Other Tools**   | Git, GitHub, LabelImg (for annotation)    |
 
+---
 
+## 🧪 Model Training
 
+- Custom-labeled dataset of skin disease images  
+- Image augmentation techniques (flipping, zoom, contrast)  
+- CNN with Conv2D, MaxPooling, and Dense layers  
+- Achieved **~80% classification accuracy** on validation data  
+- Converted to `.tflite` model for Android deployment
+
+---
+
+## 📷 Screenshots  
+*(Add interface or output screenshots here)*  
+- Home screen  
+- Prediction result with diagnosis  
+- Medical history interface
+
+---
+
+## 📦 Installation & Usage
+
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/harshbaee/DermaDetectPro_213.git
+   ```
+
+2. Open the Android project in Android Studio.
+
+3. Replace the Firebase config files with your own (if testing login).
+
+4. Build and run the app on an emulator or real device.
+
+---
+
+## 🤝 Project Guide  
+**Mr. Kamal Sutaria** – Department of Computer Science, Parul University
+
+---
+
+## 🧑‍💻 Contributors  
+- Harsh Prajapati 
+- [Collaborator Name if any]
+
+---
+
+## 📜 License  
+This project is for educational purposes only. Always consult a certified dermatologist for medical advice.
+
+---
+
+## 🔗 Links  
+- 🔗 Research Paper and Report[https://drive.google.com/drive/folders/1ar9ayMhofttw8a-k29yD4-Hr4yUOenkI?usp=drive_link]  
