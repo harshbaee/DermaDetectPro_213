@@ -39,11 +39,13 @@ A Deep Learning-Based Mobile Application for Skin Disease Detection
 
 ---
 
-## 📷 Screenshots  
-*(Add interface or output screenshots here)*  
-- Home screen  
-- Prediction result with diagnosis  
-- Medical history interface
+## 📷 Screenshots
+- Home screen
+![Screenshot (101)](https://github.com/user-attachments/assets/c780bc90-eb0a-4e11-9afa-15094720393f)
+- Prediction result with diagnosis
+![Screenshot (102)](https://github.com/user-attachments/assets/da258d25-15e3-410d-b0c8-fe3e83855846)
+- Skin Care Routine
+![Screenshot (106)](https://github.com/user-attachments/assets/b4fcea21-5366-4e65-a149-5b0175a2ccac)
 
 ---
 
@@ -68,8 +70,10 @@ A Deep Learning-Based Mobile Application for Skin Disease Detection
 ---
 
 ## 🧑‍💻 Contributors  
-- Harsh Prajapati 
-- [Collaborator Name if any]
+- Harsh Prajapati
+- Charmi Shah
+- Divy Patel
+- Pruthvi Rajput
 
 ---
 
@@ -79,4 +83,4 @@ This project is for educational purposes only. Always consult a certified dermat
 ---
 
 ## 🔗 Links  
-- 🔗 Research Paper and Report[https://drive.google.com/drive/folders/1ar9ayMhofttw8a-k29yD4-Hr4yUOenkI?usp=drive_link]  
+- 🔗 Research Paper and Report [https://drive.google.com/drive/folders/1ar9ayMhofttw8a-k29yD4-Hr4yUOenkI?usp=drive_link]  
