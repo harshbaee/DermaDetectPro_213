@@ -74,12 +74,6 @@ The core disease detection functionality is implemented in `DiseaseDetectionActi
 7. Chicken Pox
 8. Shingles
 
----
-
-## 📱 Application Screenshots [6](#1-5) 
-
----
-
 ## 🚀 Installation & Setup [7](#1-6) 
 
 ### Prerequisites
