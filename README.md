@@ -1,4 +1,4 @@
-
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/harshbaee/DermaDetectPro_213)
 # DermaDetect Pro 🩺📱  
 A Deep Learning-Based Mobile Application for Skin Disease Detection  
 
