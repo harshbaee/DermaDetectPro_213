@@ -196,6 +196,3 @@ For technical support, feature requests, or academic collaboration:
 ## Notes
 
 This comprehensive README combines all existing content from the original file with enhanced technical details derived from the codebase analysis. The structure includes detailed implementation information about the image processing pipeline, TensorFlow Lite integration, and technical architecture while maintaining the original project's academic and medical context. The skin care functionality is also referenced through `SkinCareActivity.java` [11](#1-10)  which provides treatment recommendations for various skin conditions.
-
-Wiki pages you might want to explore:
-- [Image Processing Pipeline (harshbaee/DermaDetectPro_213)](/wiki/harshbaee/DermaDetectPro_213#3.2)
