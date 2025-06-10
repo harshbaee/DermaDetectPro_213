@@ -1,5 +1,3 @@
-I understand you want me to create a comprehensive new README file that combines all the existing content with additional technical details from the codebase. Here's a complete README that incorporates the current file content plus enhanced technical information:
-
 # DermaDetect Pro 🩺📱  
 **A Deep Learning-Based Mobile Application for Skin Disease Detection**
 
